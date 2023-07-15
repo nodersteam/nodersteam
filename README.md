@@ -25,3 +25,5 @@ Our nodes (including all test networks) are hosted only on trusted providers - A
 ## Experience
 
 We have participated in more than 100+ test networks and are currently validating several mainnets.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodersteam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
