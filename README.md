@@ -27,3 +27,4 @@ Our nodes (including all test networks) are hosted only on trusted providers - A
 We have participated in more than 100+ test networks and are currently validating several mainnets.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodersteam&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nodersteam&theme=dark&background=000000)](https://git.io/streak-stats)
